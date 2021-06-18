@@ -4,7 +4,7 @@
 ## I'm an Developer who specializes in Python and Machine Learning, Electronics Enthusiast, EC-Engineer 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Automate Everything through Robotics and Machine Learning
+- 🥅 2021 Goals: Automate Everything through Robotics and Machine Learning
 - ⚡ Fun fact: I love to Code and play Piano
 
 
