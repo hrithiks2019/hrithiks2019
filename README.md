@@ -1,7 +1,7 @@
 ### Hi there, I'm Hrithik Sriram - aka Mxham1 👋
 
 
-## I'm an Developer, Electronics Enthusiast, EC-Engineer 
+## I'm an Developer who specializes in Python and Machine Learning, Electronics Enthusiast, EC-Engineer 
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Automate Everything through Robotics and Machine Learning
