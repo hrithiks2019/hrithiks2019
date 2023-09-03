@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrithiks2019" alt="hrithiks2019" /></a> </p>
 
-- 🔭 I’m currently working on [Quadruped Robot](https://github.com/hrithiks2019/Boxer)
-
-- 🌱 I’m currently learning **everything 🤣**
-
 - 💬 Ask me about **Python, Machine Learning, AI**
 
 - 📫 How to reach me **hrithiks2012@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uREfC9Q-J0F3vF11C2n9EP0njG_-UhSh/view?usp=sharing](https://drive.google.com/file/d/1uREfC9Q-J0F3vF11C2n9EP0njG_-UhSh/view?usp=sharing)
-
-- ⚡ Hobbies **I love to Code and play Piano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
