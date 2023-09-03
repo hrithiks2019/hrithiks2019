@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithiks2019&label=Profile%20views&color=0e75b6&style=flat" alt="hrithiks2019" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrithiks2019" alt="hrithiks2019" /></a> </p>
-
 - 💬 Ask me about **Python, Machine Learning, AI**
 
 - 📫 How to reach me **hrithiks2012@gmail.com**
